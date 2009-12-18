@@ -16,3 +16,5 @@ __DATA__
 Goro Fuji (gfx)
 gfuji(at)cpan.org
 MouseX::YAML
+gfx
+DWIM

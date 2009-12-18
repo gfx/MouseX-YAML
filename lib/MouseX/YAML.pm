@@ -118,8 +118,7 @@ This module provides DWIM loading of Mouse based objects from YAML
 documents.
 
 Any hashes blessed into a Mouse class will be replaced with a properly
-constructed instance (respecting init args, C<BUILDALL>, and the meta instance
-type).
+constructed instance (respecting C<init_arg> and C<BUILD>).
 
 =head1 INTERFACE
 
